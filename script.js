@@ -7,8 +7,8 @@ document.addEventListener("DOMContentLoaded", () => {
   gsap.ticker.lagSmoothing(0);
 
   const highlightWords = [
-    "YouTube",
-    "aesthetic",
+    "Erfolg",
+    "Vision",
     "immersive",
     "exceptional",
     "inspiration",
