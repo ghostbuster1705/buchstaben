@@ -9,18 +9,16 @@ document.addEventListener("DOMContentLoaded", () => {
   const highlightWords = [
     "Erfolg",
     "Vision",
-    "immersive",
-    "exceptional",
-    "inspiration",
-    "recreate",
-    "void",
-    "passionate",
-    "PRO",
-    "creativity",
-    "life",
+    "Lösungen",
+    "Unterstützung",
+    "Website",
+    "Team",
+    "Hand in Hand",
+    "heute",
+    "immer",
+    "Web",
+    "online",
     "Webniko",
-    "Erfolg",
-    "Welt",
   ];
 
   const text = new SplitType(".sticky p", { types: "words" });
