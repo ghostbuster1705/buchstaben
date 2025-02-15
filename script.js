@@ -19,6 +19,8 @@ document.addEventListener("DOMContentLoaded", () => {
     "creativity",
     "life",
     "Webniko",
+    "Erfolg",
+    "Welt",
   ];
 
   const text = new SplitType(".sticky p", { types: "words" });
